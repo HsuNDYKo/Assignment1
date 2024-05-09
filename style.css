@@ -1,0 +1,76 @@
+body{
+    padding: 10px;
+}
+    button{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55%;
+    border: 0px;
+}
+.p{
+    background-color: rgb(68, 184, 226);
+    height: 25px;
+    width: 50px;
+    border-radius: 2px;
+}
+.s{
+    background-color: rgb(213, 217, 218);
+    height: 25px;
+    width: 60px;
+    border-radius: 2px;
+}
+.su{
+    background-color: rgb(141, 193, 162);
+    height: 25px;
+    width: 50px;
+    border-radius: 2px;
+}
+.i{
+    background-color: rgb(107, 117, 249);
+    height: 25px;
+    width: 35px;
+    border-radius: 2px;
+}
+.w{
+    background-color: rgb(242, 229, 53);
+    height: 25px;
+    width: 50px;
+    border-radius: 2px;
+}
+.d{
+    background-color: rgb(196, 38, 38);
+    height: 25px;
+    width: 50px;
+    border-radius: 2px;
+}
+.r{
+    background-color: rgb(68, 184, 226);
+    height: 25px;
+    width: 45px;
+    border-radius: 50px;
+}
+.icon{
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    text-align: left;
+}
+.d2{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0px;
+}
+
+.b2{
+    background-color: rgb(68, 184, 226);
+    height: 25px;
+    width: 50px;
+    border-radius: 2px;
+}
+.bw{
+    background-color: #ffffff;
+    color: rgb(68, 184, 226);
+    height: 25px;
+    width: 50px;
+    border-radius: 2px;
+}
